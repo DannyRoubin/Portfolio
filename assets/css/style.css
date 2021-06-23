@@ -1,28 +1,25 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
-  line-height: 1;
-}
-
-textarea {
-  background: transparent;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid black;
-  padding: 10px;
-}
-
-.jumbotron {
-  text-align: center;
-  background-color: transparent;
-  color: black;
-  border-radius: 0;
-  border-bottom: 10px solid black;
+  line-height: 1.5;
+  background-color: #EEE2DC;
 }
 
 .description {
   white-space: pre-wrap;
+}
+
+/* section css area */
+
+section {
+  overflow: hidden;
+  padding: 60px;
+}
+
+/* Navbar css area */
+
+nav {
+  background-color: #EDC7B7;
 }
 
 .navbarName {
@@ -31,4 +28,18 @@ textarea {
 
 .navbarSections{
   flex-flow: row-reverse;
+}
+
+/* About me css area  */
+
+.aboutMeHeader {
+  font-size: 32px;
+  font-weight: 700;
+  border-bottom: ridge;
+  color: #AC3B61;
+}
+
+.aboutMeBody {
+  font-size: 20px;
+  font-weight: 300;
 }
