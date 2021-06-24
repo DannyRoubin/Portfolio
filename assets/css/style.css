@@ -43,3 +43,22 @@ nav {
   font-size: 20px;
   font-weight: 300;
 }
+
+.aboutMePoints {
+  margin-bottom: inherit;
+}
+
+
+/* Resume css area */
+
+.resume {
+  border: groove;
+  background-color: #BAB2B5;
+  color: white;
+  font-size: larger;
+}
+
+.resumeDownloadButton {
+  color: white;
+  border: solid 3px;
+}
