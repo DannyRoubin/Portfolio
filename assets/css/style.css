@@ -73,22 +73,11 @@ nav {
   color: #AC3B61;
 }
 
-.featuredProjects {
-     
-}
 
 .featuredProjectsImg {
   height: 260px;
   width: 100%;
   object-fit: cover;
-}
-
-.featuredProjectsWrap{
-
-}
-
-.featuredProjectsInterior{
-
 }
 
 .featuredProjectsLinks {
@@ -97,4 +86,25 @@ nav {
   background-color: #EDC7B7;
   font-size: large;
   margin: 6px;
+}
+
+/* contact me css area */
+
+.contactMeHeader {
+  font-size: 32px;
+  font-weight: 700;
+  border-bottom: ridge;
+  color: #AC3B61;
+}
+
+.contactMeBlocks {
+  border: black solid 2px;
+  background-color: #EDC7B7;
+  font-size: large;
+
+}
+
+.contactMeBlocksInterior {
+  color: black;
+
 }
