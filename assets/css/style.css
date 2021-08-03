@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #EEE2DC;
+  background-color: #eee2dc;
 }
 
 .description {
@@ -19,14 +19,14 @@ section {
 /* Navbar css area */
 
 nav {
-  background-color: #EDC7B7;
+  background-color: #edc7b7;
 }
 
 .navbarName {
   font-size: xx-large;
 }
 
-.navbarSections{
+.navbarSections {
   flex-flow: row-reverse;
 }
 
@@ -36,7 +36,7 @@ nav {
   font-size: 32px;
   font-weight: 700;
   border-bottom: ridge;
-  color: #AC3B61;
+  color: #ac3b61;
 }
 
 .aboutMeBody {
@@ -48,12 +48,11 @@ nav {
   margin-bottom: inherit;
 }
 
-
 /* Resume css area */
 
 .resume {
   border: groove;
-  background-color: #BAB2B5;
+  background-color: #bab2b5;
   color: white;
   font-size: larger;
 }
@@ -63,16 +62,19 @@ nav {
   border: solid 3px;
 }
 
-
 /* featured projects css area */
+
+.projectSpacing {
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+}
 
 .featuredProjectsHeader {
   font-size: 32px;
   font-weight: 700;
   border-bottom: ridge;
-  color: #AC3B61;
+  color: #ac3b61;
 }
-
 
 .featuredProjectsImg {
   height: 260px;
@@ -83,7 +85,7 @@ nav {
 .featuredProjectsLinks {
   border: black solid 4px;
   color: black;
-  background-color: #EDC7B7;
+  background-color: #edc7b7;
   font-size: large;
   margin: 6px;
 }
@@ -94,17 +96,15 @@ nav {
   font-size: 32px;
   font-weight: 700;
   border-bottom: ridge;
-  color: #AC3B61;
+  color: #ac3b61;
 }
 
 .contactMeBlocks {
   border: black solid 2px;
-  background-color: #EDC7B7;
+  background-color: #edc7b7;
   font-size: large;
-
 }
 
 .contactMeBlocksInterior {
   color: black;
-
 }
