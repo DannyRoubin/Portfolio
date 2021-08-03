@@ -19,4 +19,4 @@ This app is pretty simple to use, you simply open the link at the bottom of this
 ![A screenshot of the app.](./assets/images/AppScreenshot.jpg)
 
 ## Link to the App
-https://dannyroubin.github.io/UpdatedPortfolio-June2021/
+https://dannyroubin.github.io/UpdatedPortfolio-August2021/
