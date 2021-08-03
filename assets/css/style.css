@@ -67,6 +67,8 @@ nav {
 .projectSpacing {
   margin-right: 2rem;
   margin-bottom: 1rem;
+  color: black;
+  background-color: #edc7b7;
 }
 
 .featuredProjectsHeader {
@@ -74,20 +76,6 @@ nav {
   font-weight: 700;
   border-bottom: ridge;
   color: #ac3b61;
-}
-
-.featuredProjectsImg {
-  height: 260px;
-  width: 100%;
-  object-fit: cover;
-}
-
-.featuredProjectsLinks {
-  border: black solid 4px;
-  color: black;
-  background-color: #edc7b7;
-  font-size: large;
-  margin: 6px;
 }
 
 /* contact me css area */
