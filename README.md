@@ -1,4 +1,4 @@
-# Updated Portfolio (June 2021)
+# Updated Portfolio (August 2021)
 
 ## App Description 
 This app serves as a portfolio for myself to show off some of my work to future employers. It contains an about me section, resume section where you are able to open my resume in a new tab, a featured projects section to show off a few of my projects, and finally a contact me section which contains my contact information.
@@ -19,4 +19,4 @@ This app is pretty simple to use, you simply open the link at the bottom of this
 ![A screenshot of the app.](./assets/images/AppScreenshot.jpg)
 
 ## Link to the App
-https://dannyroubin.github.io/UpdatedPortfolio-June2021/
+https://dannyroubin.github.io/UpdatedPortfolio-August2021/
