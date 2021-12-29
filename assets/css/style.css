@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #eee2dc;
+  background-color: #E6E6EF;
 }
 
 .description {
@@ -19,15 +19,24 @@ section {
 /* Navbar css area */
 
 nav {
-  background-color: #edc7b7;
+  background-color: #CFCFDE;
+  border-bottom: 5px solid white;
+  
 }
 
 .navbarName {
+  color: #251E13  !important;
   font-size: xx-large;
+  margin-right: 40px;
+  
 }
 
 .navbarSections {
   flex-flow: row-reverse;
+}
+
+.navItemCustomization {
+  color: #251E13 !important;
 }
 
 /* About me css area  */
@@ -36,29 +45,32 @@ nav {
   font-size: 32px;
   font-weight: 700;
   border-bottom: ridge;
-  color: #ac3b61;
+  color: #251E13;
 }
 
 .aboutMeBody {
   font-size: 20px;
   font-weight: 300;
+  color: #251E13;
 }
 
 .aboutMePoints {
   margin-bottom: inherit;
+  color: #251E13;
+
 }
 
 /* Resume css area */
 
 .resume {
   border: groove;
-  background-color: #bab2b5;
-  color: white;
+  background-color: #CFCFDE;
+  color: #251E13;
   font-size: larger;
 }
 
 .resumeDownloadButton {
-  color: white;
+  color: #251E13;
   border: solid 3px;
 }
 
@@ -68,14 +80,25 @@ nav {
   margin-right: 2rem;
   margin-bottom: 1rem;
   color: black;
-  background-color: #edc7b7;
+  background-color: #CFCFDE;
 }
 
 .featuredProjectsHeader {
   font-size: 32px;
   font-weight: 700;
   border-bottom: ridge;
-  color: #ac3b61;
+  color: #251E13;
+}
+
+.projectButton {
+  background-color: #424261;
+  border-color: #424261
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #636392;
+  border-color: #636392; 
 }
 
 /* contact me css area */
@@ -84,12 +107,12 @@ nav {
   font-size: 32px;
   font-weight: 700;
   border-bottom: ridge;
-  color: #ac3b61;
+  color: #251E13;
 }
 
 .contactMeBlocks {
   border: black solid 2px;
-  background-color: #edc7b7;
+  background-color: #CFCFDE;
   font-size: large;
 }
 
