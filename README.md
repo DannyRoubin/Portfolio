@@ -16,7 +16,5 @@ Although I didn't lean a whole lot from this project since I was really showing 
 This app is pretty simple to use, you simply open the link at the bottom of this ReadMe and you scroll through my information. All of the buttons work so you can use the navbar to quickly jump to a specific spot and you can press any of the buttons to complete their advertized action.
 
 
-![A screenshot of the app.](./assets/images/AppScreenshot.jpg)
-
 ## Link to the App
 https://dannyroubin.github.io/UpdatedPortfolio-August2021/
